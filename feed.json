@@ -5,13 +5,14 @@
     "home_page_url": "https://asasher.github.io/eris-web",
     "feed_url": "https://asasher.github.io/eris-web/feed.json",
     "user_comment": "",
+    "icon": "https://asasher.github.io/eris-web/media/website/logo.svg",
     "author": {
         "name": "Asher"
     },
     "items": [
         {
-            "id": "https://asasher.github.io/eris-web/hello-world/index.html",
-            "url": "https://asasher.github.io/eris-web/hello-world/index.html",
+            "id": "https://asasher.github.io/eris-web/hello-world/",
+            "url": "https://asasher.github.io/eris-web/hello-world/",
             "title": "Hello World",
             "summary": "Heads and Books Hello Internet. Here is a picture of bookcases with headcases.",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://asasher.github.io/eris-web/media/posts/1/giammarco-zeH-ljawHtg-unsplash.jpg\" sizes=\"100vw\" srcset=\"https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-xs.jpg 300w ,https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-sm.jpg 480w ,https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-md.jpg 768w ,https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-lg.jpg 1024w ,https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-xl.jpg 1360w ,https://asasher.github.io/eris-web/media/posts/1/responsive/giammarco-zeH-ljawHtg-unsplash-2xl.jpg 1600w\"  height=\"3969\" width=\"5953\" alt=\"\" />\n      <figcaption>Heads and Books</figcaption>\n    </figure>\n\n  <p>\n    Hello Internet. Here is a picture of bookcases with headcases.\n  </p>",
